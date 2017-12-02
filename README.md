@@ -17,7 +17,6 @@
    --gohappy
 
 
-
 ## 联系方式
 
 作者|联系方式
@@ -59,6 +58,7 @@
 
 <br />
 
+
 <h2 id="math">基础数学系列</h2>
 
 `数学之美`
@@ -89,8 +89,8 @@
 
 ![](./images/math7.jpg)
 
-## 算法、数据结构系列
-<span id="alg" />
+
+<h2 id="alg">算法、数据结构系列</h2>
 
 `算法图解`
 
@@ -115,8 +115,7 @@
 ![](./images/alg5.jpg)
 
 
-## 机器学习系列
-<span id="ml" />
+<h2 id="ml">机器学习系列</h2>
 
 `机器学习 西瓜书`
 
@@ -146,16 +145,15 @@
 
 ![](./images/ml7.jpg)
 
-## 深度学习系列
-<span id="dl" />
+
+<h2 id="dl">深度学习系列</h2>
 
 `深度学习`
 
 ![](./images/dl1.jpg)
 
 
-## 大数据系列
-<span id="bigdata" />
+<h2 id="bigdata">大数据系列</h2>
 
 `hadoop 权威指南`
 
@@ -178,9 +176,7 @@
 ![](./images/bigdata5.jpg)
 
 
-
-## 人工智能系列
-<span id="ai" />
+<h2 id="ai">人工智能系列</h2>
 
 `AI：人工智能的本质与未来`
 
@@ -190,5 +186,4 @@
 
 ![](./images/ai2.jpg)
 
-## 开发语言系列
-<span id="lang" />
+<h2 id="lang">开发语言系列</h2>
