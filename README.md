@@ -100,7 +100,7 @@
 
 `线性代数`
 
-<img src="./images/math11.jpg" width="350px" height="360px" />
+<img src="./images/math11.png" width="350px" height="320px" />
 
 
 <h2 id="alg">算法、数据结构系列</h2>
