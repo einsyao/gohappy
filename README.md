@@ -28,7 +28,7 @@
 
 系列|书籍数量|笔记数量
 ---|---|---
-[基础数学系列](#math)    |7|0
+[基础数学系列](#math)    |11|0
 [算法系列](#alg)        |5|0
 [机器学习系列](#ml)      |12|0
 [深度学习系列](#dl)      |7|0
@@ -63,39 +63,44 @@
 
 `数学之美`
 
-<img src="./images/math1.jpg" width="200px" height="200px" />
+<img src="./images/math1.jpg" width="200px" height="230px" />
 
 `统计学习方法`
 
-<img src="./images/math2.jpg" width="200px" height="200px" />
+<img src="./images/math2.jpg" width="200px" height="230px" />
 
 `程序员的数学1`
 
-![](./images/math3.jpg)
+<img src="./images/math3.jpg" width="200px" height="230px" />
 
 `程序员的数学2`
 
-![](./images/math4.jpg)
+<img src="./images/math4.jpg" width="200px" height="230px" />
 
 `程序员的数学2`
 
-![](./images/math5.jpg)
+<img src="./images/math5.jpg" width="200px" height="230px" />
 
 `统计思维：程序员数学之概率统计`
 
-![](./images/math6.jpg)
+<img src="./images/math6.jpg" width="200px" height="230px" />
 
 `具体数学：计算机科学基础`
 
-![](./images/math7.jpg)
+<img src="./images/math7.jpg" width="200px" height="230px" />
 
-![](./images/math8.jpg)
+`概率论与数理统计`
 
-![](./images/math9.jpg)
+<img src="./images/math8.jpg" width="200px" height="230px" />
+<img src="./images/math9.jpg" width="180px" height="230px" />
+
+`高等数学上下`
 
 ![](./images/math10.jpg)
 
-![](./images/math11.jpg)
+`线性代数`
+
+<img src="./images/math11.jpg" width="350px" height="370px" />
 
 
 <h2 id="alg">算法、数据结构系列</h2>
@@ -104,143 +109,143 @@
 
 这本书算是算法入门的欢乐书籍了，很适合新手入门
 
-![](./images/alg1.jpg)
+<img src="./images/alg1.jpg" width="200px" height="230px" />
 
 `算法 第四版`
 
-![](./images/alg2.jpg)
+<img src="./images/alg2.jpg" width="200px" height="230px" />
 
 `算法导论 第三版`
 
-![](./images/alg3.jpg)
+<img src="./images/alg3.jpg" width="200px" height="230px" />
 
 `数据结构与算法分析：Java语言描述（原书第3版）`
 
-![](./images/alg4.jpg)
+<img src="./images/alg4.jpg" width="200px" height="230px" />
 
 `数据算法：Hadoop/Spark大数据处理技巧`
 
-![](./images/alg5.jpg)
+<img src="./images/alg5.jpg" width="200px" height="230px" />
 
 
 <h2 id="ml">机器学习系列</h2>
 
 `机器学习 西瓜书`
 
-![](./images/ml1.jpg)
+<img src="./images/ml1.jpg" width="200px" height="230px" />
 
 `图解机器学习`
 
-![](./images/ml2.jpg)
+<img src="./images/ml2.jpg" width="200px" height="230px" />
 
 `机器学习实战`
 
-![](./images/ml3.jpg)
+<img src="./images/ml3.jpg" width="200px" height="230px" />
 
 `数据挖掘：实用机器学习工具与技术（原书第3版）`
 
-![](./images/ml4.jpg)
+<img src="./images/ml4.jpg" width="200px" height="230px" />
 
 `Spark高级数据分析`
 
-![](./images/ml5.jpg)
+<img src="./images/ml5.jpg" width="200px" height="230px" />
 
 `Spark机器学习`
 
-![](./images/ml6.jpg)
+<img src="./images/ml6.jpg" width="200px" height="230px" />
 
 `Spark MLlib机器学习：算法、源码及实战详解`
 
-![](./images/ml7.jpg)
+<img src="./images/ml7.jpg" width="200px" height="230px" />
 
 `机器学习系统设计`
 
-![](./images/ml8.jpg)
+<img src="./images/ml8.jpg" width="200px" height="230px" />
 
 `机器学习：实用案例解析`
 
-![](./images/ml9.jpg)
+<img src="./images/ml9.jpg" width="200px" height="230px" />
 
 `深入理解机器学习：从原理到算法`
 
-![](./images/ml10.jpg)
+<img src="./images/ml10.jpg" width="200px" height="230px" />
 
 `机器学习导论（原书第3版）`
 
-![](./images/ml11.jpg)
+<img src="./images/ml11.jpg" width="200px" height="230px" />
 
 `实用机器学习`
 
-![](./images/ml12.jpg)
+<img src="./images/ml12.jpg" width="200px" height="230px" />
 
 
 <h2 id="dl">深度学习系列</h2>
 
 `深度学习`
 
-![](./images/dl1.jpg)
+<img src="./images/dl1.jpg" width="200px" height="230px" />
 
 `深度学习原理与TensorFlow实践`
 
-![](./images/dl2.jpg)
+<img src="./images/dl2.jpg" width="200px" height="230px" />
 
 `深度学习——Caffe之经典模型详解与实战`
 
-![](./images/dl3.jpg)
+<img src="./images/dl3.jpg" width="200px" height="230px" />
 
 `深入浅出深度学习：原理剖析与Python实践`
 
-![](./images/dl4.jpg)
+<img src="./images/dl4.jpg" width="200px" height="230px" />
 
 `深度学习算法实践`
 
-![](./images/dl5.jpg)
+<img src="./images/dl5.jpg" width="200px" height="230px" />
 
 `神经网络与深度学习`
 
-![](./images/dl6.jpg)
+<img src="./images/dl6.jpg" width="200px" height="230px" />
 
 `TensorFlow：实战Google深度学习框架`
 
-![](./images/dl7.jpg)
+<img src="./images/dl7.jpg" width="200px" height="230px" />
 
 
 <h2 id="bigdata">大数据系列</h2>
 
 `hadoop 权威指南`
 
-![](./images/bigdata1.jpg)
+<img src="./images/bigdata1.jpg" width="200px" height="230px" />
 
 `Flume(构建高可用可扩展的海量日志采集系统)`
 
-![](./images/bigdata2.jpg)
+<img src="./images/bigdata2.jpg" width="200px" height="230px" />
 
 `ZooKeeper：分布式过程协同技术详解`
 
-![](./images/bigdata3.jpg)
+<img src="./images/bigdata3.jpg" width="200px" height="230px" />
 
 `从Paxos到Zookeeper分布式一致性原理与实践`
 
-![](./images/bigdata4.jpg)
+<img src="./images/bigdata4.jpg" width="200px" height="230px" />
 
 `Spark快速大数据分析`
 
-![](./images/bigdata5.jpg)
+<img src="./images/bigdata5.jpg" width="200px" height="230px" />
 
 `HBase权威指南`
 
-![](./images/bigdata6.jpg)
+<img src="./images/bigdata6.jpg" width="200px" height="230px" />
 
 
 <h2 id="ai">人工智能系列</h2>
 
 `AI：人工智能的本质与未来`
 
-![](./images/ai1.png)
+<img src="./images/ai1.png" width="200px" height="230px" />
 
 `人工智能:一种现代的方法(第3版)`
 
-![](./images/ai2.jpg)
+<img src="./images/ai2.jpg" width="200px" height="230px" />
 
 <h2 id="lang">开发语言系列</h2>
 
