@@ -63,7 +63,7 @@
 
 `数学之美`
 
-![](./images/math1.jpg)
+![](./images/math1.jpg =100*100)
 
 `统计学习方法`
 
@@ -88,6 +88,14 @@
 `具体数学：计算机科学基础`
 
 ![](./images/math7.jpg)
+
+![](./images/math8.jpg)
+
+![](./images/math9.jpg)
+
+![](./images/math10.jpg)
+
+![](./images/math11.jpg)
 
 
 <h2 id="alg">算法、数据结构系列</h2>
