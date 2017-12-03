@@ -63,11 +63,11 @@
 
 `数学之美`
 
-![](./images/math1.jpg =100x100)
+<img src="./images/math1.jpg" width="200px" height="200px" />
 
 `统计学习方法`
 
-![](./images/math2.jpg)
+<img src="./images/math2.jpg" width="200px" height="200px" />
 
 `程序员的数学1`
 
